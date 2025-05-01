@@ -5,7 +5,4 @@ tests/
 
 # Files
 setup.py
-output.png
-output_resized.png
-label.png
 .DS_Store
