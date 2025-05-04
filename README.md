@@ -56,7 +56,7 @@ This version uses line detection instead of fixed values. Furthermore it allows 
 ## Requirements
 
 - **Python 3.7+**
-- **[IPPServer](https://github.com/istopwg/ippsample)** (for virtual print jobs)
+- **[IPPServer](https://github.com/h2g2bob/ipp-server)** (for virtual print jobs)
 - **[Ghostscript](https://www.ghostscript.com/)** (for PS to PNG conversion)
 - **[OpenCV](https://opencv.org/)** (`pip install opencv-python`)
 - **[pycups](https://pypi.org/project/pycups/)** (`pip install pycups`)
